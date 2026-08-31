@@ -16,8 +16,7 @@
 - 🔭 Currently working on **UAV small-object detection** — a custom **YOLO11s-UAV** model with ablation-study variants (custom CARIFPN, FlexSimAM, and S2DResConv modules) trained on **VisDrone-DET2019**, aimed at academic publication.
 - 🎓 B.Tech in Computer Science Engineering (3rd Year), Rajkiya Engineering College, Kannauj
 - 🧪 **AI/ML Research Intern** at Technology Innovation Hub (TIH), IIT Guwahati — working on an IIT Guwahati faculty problem statement in AI/ML frameworks and real-world applications.
-- 🐍 Python programmer at heart, working across **Deep Learning, Computer Vision, and AI/ML**.
-- 🛰️ Deep interest in **small object detection** for real-world vision problems — from traffic/vehicle detection to aerial/drone imagery.
+- 🐍 Python programmer working across **Deep Learning, Computer Vision, and AI/ML**.
 - 🗣️ Beyond code — **General Secretary & Student Convenor of E-Cell and IIC at RECK**, active in leadership, public speaking, and event management.
 - 💬 Ask me about YOLO, object detection pipelines, or Ultralytics workflows.
 
