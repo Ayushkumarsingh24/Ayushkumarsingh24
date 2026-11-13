@@ -5,7 +5,7 @@
 ### Computer Vision & Deep Learning Enthusiast | Student
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kumar-singh-489295329/)
-![Profile Views](https://komarev.com/ghpvc/?username=Ayushkumarsingh24&style=for-the-badge&color=blueviolet)
+
 
 </div>
 
